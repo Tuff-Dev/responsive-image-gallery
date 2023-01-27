@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Created with https://www.css-gradient.com */
+  /* background: conic-gradient(from 315deg, #311d07, #050405); */
+}
